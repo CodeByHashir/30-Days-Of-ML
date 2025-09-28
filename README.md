@@ -1,4 +1,4 @@
-# 🚀 30 Days of Machine Learning - Fast-Track Course
+# 30 Days of Machine Learning - Fast-Track Course
 
 > **A modern, hands-on journey through Machine Learning — from core foundations to advanced deep learning and MLOps, with cutting-edge methods and real-world projects.**
 
@@ -6,19 +6,19 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![ML](https://img.shields.io/badge/ML-Scikit--learn%20%7C%20PyTorch%20%7C%20HuggingFace-orange.svg)](https://scikit-learn.org/)
 
-## 🎯 Course Overview
+## Course Overview
 
 This intensive 30-day program is designed for engineers who want to master modern Machine Learning without getting bogged down in outdated concepts. We focus on **practical application**, **industry best practices**, and **cutting-edge tools** that are actually used in production today.
 
-### ✨ What Makes This Course Different
+### What Makes This Course Different
 
-- **🚀 Fast-Track Approach**: Skip hand derivations, focus on intuition + application
-- **🛠️ Modern Stack**: PyTorch, HuggingFace, MLflow, Docker, FastAPI
-- **📊 Real Datasets**: Kaggle, UCI, HuggingFace Datasets (no toy examples)
-- **🏗️ End-to-End Projects**: Complete pipelines with deployment
-- **📈 Industry-Ready**: MLOps, model deployment, and production best practices
+- **Fast-Track Approach**: Skip hand derivations, focus on intuition + application
+- **Modern Stack**: PyTorch, HuggingFace, MLflow, Docker, FastAPI
+- **Real Datasets**: Kaggle, UCI, HuggingFace Datasets (no toy examples)
+- **End-to-End Projects**: Complete pipelines with deployment
+- **Industry-Ready**: MLOps, model deployment, and production best practices
 
-## 📚 Curriculum Structure
+## Curriculum Structure
 
 ### Week 1: Core Foundations
 **Goal**: Build intuition + hands-on workflow
@@ -78,7 +78,7 @@ This intensive 30-day program is designed for engineers who want to master moder
 | 29 | Concept Revision | Notes + cheat sheets |
 | 30 | Portfolio Polish | GitHub repos, READMEs, results, visuals |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core ML Libraries
 - **Scikit-learn**: Classical ML algorithms
@@ -98,7 +98,7 @@ This intensive 30-day program is designed for engineers who want to master moder
 - **Streamlit**: Quick prototyping
 - **GitHub Actions**: CI/CD
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -129,7 +129,7 @@ pip install -r requirements.txt
 jupyter notebook Day01_Python_DS_Refresher.ipynb
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 30-Days-Of-ML/
@@ -149,18 +149,18 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 └── README.md
 ```
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this course, you will:
 
-- ✅ **Master modern ML workflows** from data preprocessing to deployment
-- ✅ **Build production-ready models** using industry best practices
-- ✅ **Deploy ML models** with Docker, FastAPI, and cloud platforms
-- ✅ **Implement MLOps pipelines** with experiment tracking and versioning
-- ✅ **Work with real-world datasets** and solve actual business problems
-- ✅ **Create a professional portfolio** showcasing your ML projects
+- **Master modern ML workflows** from data preprocessing to deployment
+- **Build production-ready models** using industry best practices
+- **Deploy ML models** with Docker, FastAPI, and cloud platforms
+- **Implement MLOps pipelines** with experiment tracking and versioning
+- **Work with real-world datasets** and solve actual business problems
+- **Create a professional portfolio** showcasing your ML projects
 
-## 📊 Projects Portfolio
+## Projects Portfolio
 
 Each week includes hands-on projects that you can add to your portfolio:
 
@@ -169,21 +169,21 @@ Each week includes hands-on projects that you can add to your portfolio:
 3. **Sentiment Analysis App** - Deep learning with transfer learning
 4. **Deployed ML Service** - Production-ready API with monitoring
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Kaggle for providing excellent datasets
 - HuggingFace for transformer models and tools
 - The open-source ML community for continuous innovation
 
-## 📞 Support
+## Support
 
 If you have any questions or need help with the course:
 
@@ -193,6 +193,6 @@ If you have any questions or need help with the course:
 
 ---
 
-**Ready to become an ML engineer in 30 days? Let's start this journey! 🚀**
+**Ready to become an ML engineer in 30 days? Let's start this journey!**
 
 *"The best way to learn Machine Learning is by building Machine Learning."*
