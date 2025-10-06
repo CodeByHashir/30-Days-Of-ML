@@ -145,6 +145,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day09_kNN_Naive_Bayes.ipynb
 │   ├── LICENSE
 │   └── README.md
+└── 30_days_of_ml_guide.md            # Course overview and roadmap
 ```
 
 ### Directory Breakdown
@@ -156,8 +157,6 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 - **Root Level Files**:
   - **`30_days_of_ml_guide.md`**: Comprehensive course roadmap and learning objectives
-  - **`titanic.csv`**: Real-world dataset used in Day 7 project
-  - **Visual Assets**: Images and diagrams supporting the course content (SVM concepts, hyperparameter tuning, etc.)
 
 ### Current Progress Status
 
