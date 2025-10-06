@@ -132,22 +132,47 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ## Project Structure
 
 ```
-30-Days-Of-ML/
-├── Week1_Core_Foundations/
+30-days-of-ml/
+├── 30-Days-Of-ML/                    # Main course directory
 │   ├── Day01_Python_DS_Refresher.ipynb
 │   ├── Day02_Data_Preprocessing.ipynb
-│   └── ...
-├── Week2_ML_Algorithms/
-├── Week3_Deep_Learning/
-├── Week4_Advanced_ML/
-├── projects/
-│   ├── churn_prediction/
-│   ├── sentiment_analysis/
-│   └── model_deployment/
-├── datasets/
-├── requirements.txt
-└── README.md
+│   ├── Day03_EDA_Best_Practices.ipynb
+│   ├── Day04_ML_Pipeline_Intro.ipynb
+│   ├── Day05_Linear_Logistic_Regression.ipynb
+│   ├── Day06_Decision_Trees_Random_Forests.ipynb
+│   ├── Day07_Titanic.ipynb
+│   ├── Day08_SVMs_Kernel_Trick.ipynb
+│   ├── Day09_kNN_Naive_Bayes.ipynb
+│   ├── LICENSE
+│   └── README.md
 ```
+
+### Directory Breakdown
+
+- **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
+  - **Days 1-9**: Core ML concepts from Python basics to advanced algorithms
+  - **LICENSE**: MIT license file
+  - **README.md**: Main course documentation
+
+- **Root Level Files**:
+  - **`30_days_of_ml_guide.md`**: Comprehensive course roadmap and learning objectives
+  - **`titanic.csv`**: Real-world dataset used in Day 7 project
+  - **Visual Assets**: Images and diagrams supporting the course content (SVM concepts, hyperparameter tuning, etc.)
+
+### Current Progress Status
+
+✅ **Completed Days (1-9)**:
+- Day 1: Python for Data Science Refresher
+- Day 2: Data Preprocessing
+- Day 3: EDA Best Practices
+- Day 4: ML Pipeline Introduction
+- Day 5: Linear & Logistic Regression
+- Day 6: Decision Trees & Random Forests
+- Day 7: Titanic Dataset Project
+- Day 8: SVMs & Kernel Trick
+- Day 9: kNN & Naive Bayes
+
+🔄 **In Progress**: Days 10-30 (to be added)
 
 ## Learning Objectives
 
