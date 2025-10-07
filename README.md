@@ -40,7 +40,7 @@ This intensive 30-day program is designed for engineers who want to master moder
 |-----|-------|------------------|
 | 8 | SVMs | Kernel trick, when/why they work |
 | 9 | kNN & Naive Bayes | Quick coverage, interview-style |
-| 10 | Gradient Boosting | XGBoost, LightGBM, CatBoost |
+| 10 | **Gradient Boosting** | XGBoost, LightGBM, CatBoost |
 | 11 | Hyperparameter Tuning | GridSearchCV, RandomizedSearch, Optuna |
 | 12 | Model Evaluation | ROC, AUC, Precision-Recall, F1, Cross-validation |
 | 13 | Feature Engineering | Scaling, encoding, PCA, feature selection |
@@ -143,6 +143,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day07_Titanic.ipynb
 │   ├── Day08_SVMs_Kernel_Trick.ipynb
 │   ├── Day09_kNN_Naive_Bayes.ipynb
+│   ├── Day10_Gradient_Boosting.ipynb
 │   ├── LICENSE
 │   └── README.md
 └── 30_days_of_ml_guide.md            # Course overview and roadmap
@@ -151,7 +152,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ### Directory Breakdown
 
 - **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
-  - **Days 1-9**: Core ML concepts from Python basics to advanced algorithms
+  - **Days 1-10**: Core ML concepts from Python basics to gradient boosting algorithms
   - **LICENSE**: MIT license file
   - **README.md**: Main course documentation
 
@@ -160,7 +161,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-9)**:
+✅ **Completed Days (1-10)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -170,8 +171,9 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 7: Titanic Dataset Project
 - Day 8: SVMs & Kernel Trick
 - Day 9: kNN & Naive Bayes
+- Day 10: Gradient Boosting (XGBoost, LightGBM, CatBoost)
 
-🔄 **In Progress**: Days 10-30 (to be added)
+🔄 **In Progress**: Days 11-30 (to be added)
 
 ## Learning Objectives
 
