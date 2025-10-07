@@ -189,7 +189,7 @@ By the end of this course, you will:
 
 Each week includes hands-on projects that you can add to your portfolio:
 
-1. **Churn Prediction System** - End-to-end ML pipeline
+1. **Titanic Survival Prediction System** - End-to-end ML pipeline
 2. **Algorithm Comparison Study** - Comprehensive model evaluation
 3. **Sentiment Analysis App** - Deep learning with transfer learning
 4. **Deployed ML Service** - Production-ready API with monitoring
