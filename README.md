@@ -146,7 +146,6 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day10_Gradient_Boosting.ipynb
 │   ├── LICENSE
 │   └── README.md
-└── 30_days_of_ml_guide.md            # Course overview and roadmap
 ```
 
 ### Directory Breakdown
