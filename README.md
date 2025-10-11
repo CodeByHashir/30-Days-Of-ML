@@ -147,6 +147,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day11_Hyperparameter_Tuning.ipynb
 │   ├── Day12_Model_Evaluation.ipynb
 │   ├── Day13_Feature_Engineering.ipynb
+│   ├── Day14_Algorithm_Comparison.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -154,7 +155,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ### Directory Breakdown
 
 - **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
-  - **Days 1-13**: Core ML concepts from Python basics to feature engineering
+  - **Days 1-14**: Core ML concepts from Python basics to algorithm comparison
   - **LICENSE**: MIT license file
   - **README.md**: Main course documentation
 
@@ -163,7 +164,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-13)**:
+✅ **Completed Days (1-14)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -177,8 +178,9 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 11: Hyperparameter Tuning
 - Day 12: Model Evaluation
 - Day 13: Feature Engineering
+- Day 14: **Algorithm Comparison Mini-Project** - Comprehensive ML model comparison
 
-🔄 **In Progress**: Days 14-30 (to be added)
+🔄 **In Progress**: Days 15-30 (to be added)
 
 ## Learning Objectives
 
@@ -196,7 +198,7 @@ By the end of this course, you will:
 Each week includes hands-on projects that you can add to your portfolio:
 
 1. **Titanic Survival Prediction System** - End-to-end ML pipeline
-2. **Algorithm Comparison Study** - Comprehensive model evaluation
+2. **Algorithm Comparison Study** - Comprehensive model evaluation with 9 ML algorithms, cross-validation, and performance visualization
 3. **Sentiment Analysis App** - Deep learning with transfer learning
 4. **Deployed ML Service** - Production-ready API with monitoring
 
