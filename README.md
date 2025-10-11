@@ -144,6 +144,9 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day08_SVMs_Kernel_Trick.ipynb
 │   ├── Day09_kNN_Naive_Bayes.ipynb
 │   ├── Day10_Gradient_Boosting.ipynb
+│   ├── Day11_Hyperparameter_Tuning.ipynb
+│   ├── Day12_Model_Evaluation.ipynb
+│   ├── Day13_Feature_Engineering.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -151,7 +154,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ### Directory Breakdown
 
 - **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
-  - **Days 1-10**: Core ML concepts from Python basics to gradient boosting algorithms
+  - **Days 1-13**: Core ML concepts from Python basics to feature engineering
   - **LICENSE**: MIT license file
   - **README.md**: Main course documentation
 
@@ -160,7 +163,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-10)**:
+✅ **Completed Days (1-13)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -171,8 +174,11 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 8: SVMs & Kernel Trick
 - Day 9: kNN & Naive Bayes
 - Day 10: Gradient Boosting (XGBoost, LightGBM, CatBoost)
+- Day 11: Hyperparameter Tuning
+- Day 12: Model Evaluation
+- Day 13: Feature Engineering
 
-🔄 **In Progress**: Days 11-30 (to be added)
+🔄 **In Progress**: Days 14-30 (to be added)
 
 ## Learning Objectives
 
