@@ -52,7 +52,7 @@ This intensive 30-day program is designed for engineers who want to master moder
 | Day | Topic | Key Technologies |
 |-----|-------|------------------|
 | 15 | Neural Network Basics | Forward/backprop intuition (not full math) |
-| 16 | Building NN with PyTorch | Basic classifier |
+| 16 | **Building NN with PyTorch** | Tensors, autograd, nn.Module, training loops, BatchNorm |
 | 17 | CNNs | Image classification (CIFAR/MNIST) |
 | 18 | RNNs & LSTMs | Sequence modeling (text/sensor data) |
 | 19 | Transformers | Attention mechanism, HuggingFace intro |
@@ -148,6 +148,8 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day12_Model_Evaluation.ipynb
 │   ├── Day13_Feature_Engineering.ipynb
 │   ├── Day14_Algorithm_Comparison.ipynb
+│   ├── Day15_Neural_Network_Basics.ipynb
+│   ├── Day16_Building_Neural_Networks_with_PyTorch.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -155,7 +157,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ### Directory Breakdown
 
 - **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
-  - **Days 1-14**: Core ML concepts from Python basics to algorithm comparison
+  - **Days 1-14**: Till - Deep learning fundamentals with PyTorch
   - **LICENSE**: MIT license file
   - **README.md**: Main course documentation
 
@@ -164,7 +166,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-14)**:
+✅ **Completed Days (1-16)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -179,8 +181,10 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 12: Model Evaluation
 - Day 13: Feature Engineering
 - Day 14: **Algorithm Comparison Mini-Project** - Comprehensive ML model comparison
+- Day 15: Neural Network Basics
+- Day 16: **Building Neural Networks with PyTorch** - Complete PyTorch tutorial with BatchNorm comparison, gradient analysis, and model checkpointing
 
-🔄 **In Progress**: Days 15-30 (to be added)
+🔄 **In Progress**: Days 17-30 (to be added)
 
 ## Learning Objectives
 
