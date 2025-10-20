@@ -150,6 +150,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day14_Algorithm_Comparison.ipynb
 │   ├── Day15_Neural_Network_Basics.ipynb
 │   ├── Day16_Building_Neural_Networks_with_PyTorch.ipynb
+│   ├── Day17_CNNs_Image_Classification.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -166,7 +167,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-16)**:
+✅ **Completed Days (1-17)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -183,8 +184,9 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 14: **Algorithm Comparison Mini-Project** - Comprehensive ML model comparison
 - Day 15: Neural Network Basics
 - Day 16: **Building Neural Networks with PyTorch** - Complete PyTorch tutorial with BatchNorm comparison, gradient analysis, and model checkpointing
+ - Day 17: **Convolutional Neural Networks (CNNs)** - Image classification with PyTorch (MNIST + CIFAR-10), data augmentation, BatchNorm/Dropout, evaluation and visualizations
 
-🔄 **In Progress**: Days 17-30 (to be added)
+🔄 **In Progress**: Days 18-30 (to be added)
 
 ## Learning Objectives
 
