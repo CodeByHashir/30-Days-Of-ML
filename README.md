@@ -1,6 +1,6 @@
 # 30 Days of Machine Learning - Fast-Track Course
 
-> **A modern, hands-on journey through Machine Learning — from core foundations to advanced deep learning and MLOps, with cutting-edge methods and real-world projects.**
+> **A modern, hands-on journey through Machine Learning from core foundations to advanced deep learning and MLOps, with cutting-edge methods and real-world projects.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
