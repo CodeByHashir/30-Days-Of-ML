@@ -54,7 +54,7 @@ This intensive 30-day program is designed for engineers who want to master moder
 | 15 | Neural Network Basics | Forward/backprop intuition (not full math) |
 | 16 | **Building NN with PyTorch** | Tensors, autograd, nn.Module, training loops, BatchNorm |
 | 17 | CNNs | Image classification (CIFAR/MNIST) |
-| 18 | RNNs & LSTMs | Sequence modeling (text/sensor data) |
+| 18 | **RNNs & LSTMs** | Sequence modeling (text/sensor data) ✅ |
 | 19 | Transformers | Attention mechanism, HuggingFace intro |
 | 20 | Transfer Learning | Fine-tuning ResNet, BERT |
 | 21 | **Mini-Project**: Sentiment Analysis | Image classification with transfer learning |
@@ -151,6 +151,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day15_Neural_Network_Basics.ipynb
 │   ├── Day16_Building_Neural_Networks_with_PyTorch.ipynb
 │   ├── Day17_CNNs_Image_Classification.ipynb
+│   ├── Day18_RNNs_LSTMs_Sequence_Modeling.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -158,7 +159,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ### Directory Breakdown
 
 - **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
-  - **Days 1-14**: Till - Deep learning fundamentals with PyTorch
+  - **Days 1-18**: Complete - From Python fundamentals to advanced deep learning with RNNs/LSTMs
   - **LICENSE**: MIT license file
   - **README.md**: Main course documentation
 
@@ -167,7 +168,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-17)**:
+✅ **Completed Days (1-18)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -184,9 +185,10 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 14: **Algorithm Comparison Mini-Project** - Comprehensive ML model comparison
 - Day 15: Neural Network Basics
 - Day 16: **Building Neural Networks with PyTorch** - Complete PyTorch tutorial with BatchNorm comparison, gradient analysis, and model checkpointing
- - Day 17: **Convolutional Neural Networks (CNNs)** - Image classification with PyTorch (MNIST + CIFAR-10), data augmentation, BatchNorm/Dropout, evaluation and visualizations
+- Day 17: **Convolutional Neural Networks (CNNs)** - Image classification with PyTorch (MNIST + CIFAR-10), data augmentation, BatchNorm/Dropout, evaluation and visualizations
+- Day 18: **RNNs & LSTMs - Sequence Modeling Mastery** - Complete RNN/LSTM implementation with PyTorch, vanishing gradient analysis, time series prediction, and model comparison
 
-🔄 **In Progress**: Days 18-30 (to be added)
+🔄 **In Progress**: Days 19-30 (to be added)
 
 ## Learning Objectives
 
