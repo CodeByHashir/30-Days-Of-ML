@@ -8,7 +8,7 @@
 
 ## Course Overview
 
-This intensive 30-day program is designed for engineers who want to master modern Machine Learning without getting bogged down in outdated concepts. We focus on **practical application**, **industry best practices**, and **cutting-edge tools** that are actually used in production today.
+This intensive 30-day program is designed for engineers who want to master modern Machine Learning without getting bogged down in outdated concepts. We focus on **practical application**, **industry best practices**, and **cutting-edge tools** that are actually used in production today..
 
 ### What Makes This Course Different
 
