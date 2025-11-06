@@ -152,6 +152,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day16_Building_Neural_Networks_with_PyTorch.ipynb
 │   ├── Day17_CNNs_Image_Classification.ipynb
 │   ├── Day18_RNNs_LSTMs_Sequence_Modeling.ipynb
+│   ├── Day19_Transformers_Attention_Mechanism.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -159,7 +160,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ### Directory Breakdown
 
 - **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
-  - **Days 1-18**: Complete - From Python fundamentals to advanced deep learning with RNNs/LSTMs
+  - **Days 1-19**: Complete - From Python fundamentals to transformers/attention
   - **LICENSE**: MIT license file
   - **README.md**: Main course documentation
 
@@ -168,7 +169,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-18)**:
+✅ **Completed Days (1-19)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -187,8 +188,9 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 16: **Building Neural Networks with PyTorch** - Complete PyTorch tutorial with BatchNorm comparison, gradient analysis, and model checkpointing
 - Day 17: **Convolutional Neural Networks (CNNs)** - Image classification with PyTorch (MNIST + CIFAR-10), data augmentation, BatchNorm/Dropout, evaluation and visualizations
 - Day 18: **RNNs & LSTMs - Sequence Modeling Mastery** - Complete RNN/LSTM implementation with PyTorch, vanishing gradient analysis, time series prediction, and model comparison
+- Day 19: **Transformers & Attention Mechanism** - Scaled dot-product attention, self-attention, and attention heatmap visualization
 
-🔄 **In Progress**: Days 19-30 (to be added)
+🔄 **In Progress**: Days 20-30 (to be added)
 
 ## Learning Objectives
 
