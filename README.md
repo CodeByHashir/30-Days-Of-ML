@@ -129,6 +129,27 @@ pip install -r requirements.txt
 jupyter notebook Day01_Python_DS_Refresher.ipynb
 ```
 
+## Run Day 20 (BERT Fine‑Tuning)
+
+- Install minimal dependencies:
+
+```bash
+pip install -U transformers datasets evaluate accelerate scikit-learn
+```
+
+- Open the notebook:
+
+```bash
+jupyter notebook 30-Days-Of-ML/Day20_BERT_Fine_Tuning_Text_Classification.ipynb
+```
+
+- Troubleshooting (older transformers versions):
+  - If you see a TypeError with `TrainingArguments` (e.g., unknown `evaluation_strategy`), upgrade:
+    ```bash
+    pip install -U "transformers>=4.40" "datasets>=2.19" "evaluate>=0.4" "accelerate>=0.33"
+    ```
+  - Or remove unsupported args from `TrainingArguments` and call `trainer.evaluate()` after training.
+
 ## Project Structure
 
 ```
@@ -153,6 +174,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 │   ├── Day17_CNNs_Image_Classification.ipynb
 │   ├── Day18_RNNs_LSTMs_Sequence_Modeling.ipynb
 │   ├── Day19_Transformers_Attention_Mechanism.ipynb
+│   ├── Day20_BERT_Fine_Tuning_Text_Classification.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -160,7 +182,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 ### Directory Breakdown
 
 - **`30-Days-Of-ML/`**: Contains all the Jupyter notebook lessons organized by day
-  - **Days 1-19**: Complete - From Python fundamentals to transformers/attention
+  - **Days 1-20**: Complete - From Python fundamentals to transformers/attention and BERT fine‑tuning
   - **LICENSE**: MIT license file
   - **README.md**: Main course documentation
 
@@ -169,7 +191,7 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-19)**:
+✅ **Completed Days (1-20)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -189,8 +211,9 @@ jupyter notebook Day01_Python_DS_Refresher.ipynb
 - Day 17: **Convolutional Neural Networks (CNNs)** - Image classification with PyTorch (MNIST + CIFAR-10), data augmentation, BatchNorm/Dropout, evaluation and visualizations
 - Day 18: **RNNs & LSTMs - Sequence Modeling Mastery** - Complete RNN/LSTM implementation with PyTorch, vanishing gradient analysis, time series prediction, and model comparison
 - Day 19: **Transformers & Attention Mechanism** - Scaled dot-product attention, self-attention, and attention heatmap visualization
+- Day 20: **Fine‑Tuning BERT for Text Classification** - Hugging Face `Trainer` workflow on SST‑2 subset, evaluation (accuracy/F1), and quick inference
 
-🔄 **In Progress**: Days 20-30 (to be added)
+🔄 **In Progress**: Days 21-30 (to be added)
 
 ## Learning Objectives
 
