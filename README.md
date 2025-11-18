@@ -57,7 +57,7 @@ This intensive 30-day program is designed for engineers who want to master moder
 | 18 | **RNNs & LSTMs** | Sequence modeling (text/sensor data) ✅ |
 | 19 | Transformers | Attention mechanism, HuggingFace intro |
 | 20 | Transfer Learning | Fine-tuning ResNet, BERT |
-| 21 | **Mini-Project**: Sentiment Analysis | Image classification with transfer learning |
+| 21 | **Mini-Project**: Sentiment Analysis | Text classification (TF‑IDF + LR/SVM/NB) |
 
 ### Week 4: Advanced & Real-World ML
 **Goal**: Industry-ready skills
@@ -150,6 +150,24 @@ jupyter notebook 30-Days-Of-ML/Day20_BERT_Fine_Tuning_Text_Classification.ipynb
     ```
   - Or remove unsupported args from `TrainingArguments` and call `trainer.evaluate()` after training.
 
+## Run Day 21 (Sentiment Analysis - Classical ML)
+
+- Install minimal dependencies (if not already installed):
+
+```bash
+pip install -U scikit-learn seaborn
+```
+
+- Download the dataset from Kaggle: `https://www.kaggle.com/datasets/mgmitesh/sentiment-analysis-dataset`
+- Save the CSV to `30-Days-Of-ML/data/sentiment_dataset.csv` (or update the path in the notebook)
+- Open the notebook:
+
+```bash
+jupyter notebook 30-Days-Of-ML/Day21_Sentiment_Analysis.ipynb
+```
+
+Inside the notebook, set `DATA_PATH`, `TEXT_COLUMN`, and `LABEL_COLUMN` to match your CSV.
+
 ## Project Structure
 
 ```
@@ -175,6 +193,7 @@ jupyter notebook 30-Days-Of-ML/Day20_BERT_Fine_Tuning_Text_Classification.ipynb
 │   ├── Day18_RNNs_LSTMs_Sequence_Modeling.ipynb
 │   ├── Day19_Transformers_Attention_Mechanism.ipynb
 │   ├── Day20_BERT_Fine_Tuning_Text_Classification.ipynb
+│   ├── Day21_Sentiment_Analysis.ipynb
 │   ├── LICENSE
 │   └── README.md
 ```
@@ -191,7 +210,7 @@ jupyter notebook 30-Days-Of-ML/Day20_BERT_Fine_Tuning_Text_Classification.ipynb
 
 ### Current Progress Status
 
-✅ **Completed Days (1-20)**:
+✅ **Completed Days (1-21)**:
 - Day 1: Python for Data Science Refresher
 - Day 2: Data Preprocessing
 - Day 3: EDA Best Practices
@@ -212,8 +231,9 @@ jupyter notebook 30-Days-Of-ML/Day20_BERT_Fine_Tuning_Text_Classification.ipynb
 - Day 18: **RNNs & LSTMs - Sequence Modeling Mastery** - Complete RNN/LSTM implementation with PyTorch, vanishing gradient analysis, time series prediction, and model comparison
 - Day 19: **Transformers & Attention Mechanism** - Scaled dot-product attention, self-attention, and attention heatmap visualization
 - Day 20: **Fine‑Tuning BERT for Text Classification** - Hugging Face `Trainer` workflow on SST‑2 subset, evaluation (accuracy/F1), and quick inference
+ - Day 21: **Sentiment Analysis Mini‑Project (Classical ML)** - TF‑IDF features with Logistic Regression, Linear SVM, and Multinomial Naive Bayes; evaluation, confusion matrix, and simple error analysis
 
-🔄 **In Progress**: Days 21-30 (to be added)
+🔄 **In Progress**: Days 22-30 (to be added)
 
 ## Learning Objectives
 
@@ -232,7 +252,7 @@ Each week includes hands-on projects that you can add to your portfolio:
 
 1. **Titanic Survival Prediction System** - End-to-end ML pipeline
 2. **Algorithm Comparison Study** - Comprehensive model evaluation with 9 ML algorithms, cross-validation, and performance visualization
-3. **Sentiment Analysis App** - Deep learning with transfer learning
+3. **Sentiment Analysis (Classical Baselines)** - TF‑IDF + LR/SVM/NB with evaluation and error analysis
 4. **Deployed ML Service** - Production-ready API with monitoring
 
 ## Contributing
